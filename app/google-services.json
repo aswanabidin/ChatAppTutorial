@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357803120631",
+    "firebase_url": "https://firechat-java.firebaseio.com",
+    "project_id": "firechat-java",
+    "storage_bucket": "firechat-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357803120631:android:bc5481868bc9bb1af0c0f2",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357803120631-r3jdkuhq1uesvihsmpicsri0q7ktevdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGbOuyK98mTUxTz3ndu_cL-NszwHO_Gv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357803120631-r3jdkuhq1uesvihsmpicsri0q7ktevdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
